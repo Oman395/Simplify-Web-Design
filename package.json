@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Visual website designer, built to allow full user control and access to any element required.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +13,9 @@
     "Design"
   ],
   "author": "Oran RH",
-  "license": "DBAD"
+  "license": "DBAD",
+  "dependencies": {
+    "html-tags": "^3.2.0",
+    "jsdom": "^20.0.0"
+  }
 }
