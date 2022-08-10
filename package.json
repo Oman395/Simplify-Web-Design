@@ -1,0 +1,16 @@
+{
+  "name": "simplify-web-design",
+  "version": "0.1.0",
+  "description": "Visual website designer, built to allow full user control and access to any element required.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Website",
+    "Web",
+    "Design"
+  ],
+  "author": "Oran RH",
+  "license": "DBAD"
+}
